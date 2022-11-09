@@ -14,7 +14,9 @@ body{
     color: #7A7C80;
 
 }
-
+img {
+    border-radius: 50%;
+  }
 h2,.white{
     color: #fff;
 }
@@ -54,7 +56,11 @@ a{
     font-size: 1.7rem;
     margin-bottom: 10px;
 }
-
+.section-2 h3{
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    color: rgba(255, 255, 255, 0.717)
+}
 .section-2 p{
     font-size: 1.1rem;
     padding-bottom: 10px;
